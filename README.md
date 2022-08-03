@@ -1,4 +1,4 @@
-![movie_theatre](https://github.com/heathlikethecandybar/phase_1_project/blob/main/images/movie_theatre.jpeg)
+![movie_theatre](https://github.com/heathlikethecandybar/phase_1_final/blob/main/images/movie_theatre.jpeg)
 
 # Microsoft Corp. Movie Studio Analysis
 
@@ -29,15 +29,15 @@ This project uses descriptive analysis, including description of trends over tim
 
 Most movies that were released in this data set (between 2006 and 2018, and have a budget of over $10M) are profitable.  However, when you start to look at the type of content (rating) of the movies, you can begin to dicern a higher probability of profitability.  Something that is really important for a company that is just beginning their content journey.  Over time you can see that movies rated for the family do better from and ROI perspective than those movies targeted for audiences over the age of 17.
 
-![roi_by_fam_and_non-fam_movies_over_time](https://github.com/heathlikethecandybar/phase_1_project/blob/main/images/ROI%20by%20Fam%20and%20Non-Fam%20Movies.jpeg)
+![roi_by_fam_and_non-fam_movies_over_time](https://github.com/heathlikethecandybar/phase_1_final/blob/main/images/ROI%20by%20Fam%20and%20Non-Fam%20Movies.jpeg)
 
 When you pair a movie's rating, along with how it is created and it's ability to franchise, you improve the chances of having a very profitable film compared to movies that have a more targeted audience (i.e. NC-17 and R).  Creating family movies that are animated perform better than Live Action movies.  Median Total Box Office performs better over time versus
 
-![med_box_office_over_time](https://github.com/heathlikethecandybar/phase_1_project/blob/main/images/Median%20Box%20Office%20by%20Prod%20Method%20Group%20and%20Time.jpeg)
+![med_box_office_over_time](https://github.com/heathlikethecandybar/phase_1_final/blob/main/images/Median%20Box%20Office%20by%20Prod%20Method%20Group%20and%20Time.jpeg)
 
 Now that we know we need international movies that appeal to a international audience, the final performance variable I evaluated was if the movie had a sequel or not.  International Family Movies that have a sequel experience a return of almost twice the amount of movies (international, family) without a sequel.
 
-![med_box_office_over_time](https://github.com/heathlikethecandybar/phase_1_project/blob/main/images/ROI%20by%20Method%20and%20Franchise.jpeg)
+![med_box_office_over_time](https://github.com/heathlikethecandybar/phase_1_final/blob/main/images/ROI%20by%20Method%20and%20Franchise.jpeg)
 
 These 3 variables have a considerable impact on ROI and total revenue, which will optimize success for Microsoft from the start.
 
@@ -61,7 +61,7 @@ Further analyses could yield additional insights to further improve success at M
 
 ## For More Information
 
-The full analysis is located in the [Jupyter Notebook](./phase_1_project.ipynb) or review this summary [presentation](https://github.com/heathlikethecandybar/phase_1_project/blob/main/FI%20-%20Phase%201%20Project.pdf).
+The full analysis is located in the [Jupyter Notebook](./phase_1_project.ipynb) or review this summary [presentation](https://github.com/heathlikethecandybar/phase_1_final/blob/main/FI%20-%20Phase%201%20Project.pdf).
 
 For additional info, contact Heath Rittler at [hrittler@gmail.com](mailto:hrittler@gmail.com)
 
